@@ -17,11 +17,9 @@ Mark's gonna release the entire server up for download, I'm not sure what one ot
 
 ## Connection Details
 
-Java: bmcairns.hopto.org:25565
+bmcairns.hopto.org:25565
 
-Bedrock: Hostname: bmcairns.hopto.org
-
-             Port: 25565
+*Works for both Java and Bedrock, just move the :25565 part to the port, without the :*
 
 ## Coming Soon!
 
