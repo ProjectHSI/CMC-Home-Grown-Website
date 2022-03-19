@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
+# Welcome to CMC Home-Grown
 
-You can use the [editor on GitHub](https://github.com/ProjectHSI/CMC-Home-Grown-Website/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Welcome! This is a community-made continuation of the CairnsMinecraft project.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+As Mark, the original owner of the server, is moving to the Tablelands, he's unfortunately not working on the project anymore.
+While Mark says it's not the end of Minecraft in the region, we want the OG worlds!
 
-### Markdown
+This is also a community where everyone is involved in the server's configuration or plugins, as the community can suggest plugins to add.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Q/A
 
-```markdown
-Syntax highlighted code block
+*You don't even have the server files!*
 
-# Header 1
-## Header 2
-### Header 3
+***hush puppy***
 
-- Bulleted
-- List
+Mark's gonna release the entire server up for download, I'm not sure what one other than me and James would be able to startup the server and maintain it but anyway
 
-1. Numbered
-2. List
+## Coming Soon!
 
-**Bold** and _Italic_ and `Code` text
+This project is still coming soon! The project will be fully released after the server's released.
 
-[Link](url) and ![Image](src)
-```
+However sometimes the proxy will be up, usually for testing. Use *bmcairns.hopto.org:25565* to connect to the server. *This works for both Java and Bedrock.*
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+## Support or Contact
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ProjectHSI/CMC-Home-Grown-Website/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+If you're even having trouble with stuff or just want to chat, you can ever submit an issue on this repo or just [join the Discord Server](discord.gg/tVb2narN2e).
