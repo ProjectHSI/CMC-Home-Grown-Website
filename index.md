@@ -23,4 +23,4 @@ However sometimes the proxy will be up, usually for testing. Use *bmcairns.hopto
 
 ## Support or Contact
 
-If you're even having trouble with stuff or just want to chat, you can ever submit an issue on this repo or just [join the Discord Server](discord.gg/tVb2narN2e).
+If you're even having trouble with stuff or just want to chat, you can ever submit an issue on this repo or just join the Discord Server:discord.gg/tVb2narN2e.
