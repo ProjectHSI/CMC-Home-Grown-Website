@@ -22,6 +22,7 @@ Java: bmcairns.hopto.org:25565
 Bedrock: Hostname: bmcairns.hopto.org
 
              Port: 25565
+
 ## Coming Soon!
 
 This project is still coming soon! The project will be fully released after the server's released.
