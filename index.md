@@ -15,11 +15,18 @@ This is also a community where everyone is involved in the server's configuratio
 
 Mark's gonna release the entire server up for download, I'm not sure what one other than me and James would be able to startup the server and maintain it but anyway
 
+## Connection Details
+
+Java: bmcairns.hopto.org:25565
+
+Bedrock: Hostname: bmcairns.hopto.org
+
+             Port: 25565
 ## Coming Soon!
 
 This project is still coming soon! The project will be fully released after the server's released.
 
-However sometimes the proxy will be up, usually for testing. Use *bmcairns.hopto.org:25565* to connect to the server. *This works for both Java and Bedrock.*
+However sometimes the proxy will be up, usually for testing. Use the connection details above to connect.
 
 ## Support or Contact
 
